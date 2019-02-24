@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+myenv
+db.backends.postgresql_psycopg2
+/static
+.DS_Store
